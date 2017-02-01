@@ -1,4 +1,4 @@
-package com.hacker_rank_solutions;
+package com.hacker_rank_solutions.algorithms.graphtheory.dijkstra;
 
 import java.util.Scanner;
 
